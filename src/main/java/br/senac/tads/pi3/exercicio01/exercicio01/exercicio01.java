@@ -18,4 +18,3 @@ public class exercicio01 {
     }
     
 }
-psvm
