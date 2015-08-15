@@ -25,8 +25,19 @@ public class exercicio01 {
         dataNasc = leitor.next();
         System.out.print("E-mail: ");
         email = leitor.next();
-        System.out.println("Telefone: ");
+        System.out.print("Telefone: ");
         tel = leitor.next();
+        
+        System.out.println("======================");
+        System.out.println("      CONTATOS        ");
+        System.out.println("======================");
+        System.out.println("Nome: " + nome);
+        System.out.println("Data de Nascimento: " + dataNasc);
+        System.out.println("E-mail: " + email);
+        System.out.println("Telefone: " + tel);
+        
+        
+        
     }
     
 }
