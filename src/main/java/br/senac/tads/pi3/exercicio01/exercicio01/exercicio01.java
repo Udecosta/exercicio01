@@ -25,7 +25,7 @@ public class exercicio01 {
         dataNasc = leitor.next();
         System.out.print("E-mail: ");
         email = leitor.next();
-        System.out.println("Telefone:");
+        System.out.println("Telefone: ");
         tel = leitor.next();
     }
     
