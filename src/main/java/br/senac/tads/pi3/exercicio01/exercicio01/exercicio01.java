@@ -27,6 +27,7 @@ public class exercicio01 {
         email = leitor.next();
         System.out.println("Telefone: ");
         tel = leitor.next();
+        
     }
     
 }
